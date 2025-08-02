@@ -137,7 +137,7 @@ def print_help():
 ║  {Colors.BRIGHT_WHITE}No arguments:{Colors.BRIGHT_CYAN} Start interactive CLI chat mode                     ║
 ║                                                                    ║
 ║  {Colors.BRIGHT_WHITE}Configuration:{Colors.BRIGHT_CYAN}                                                    ║
-║  All settings are saved in ~/.config-neurax/config.json            ╚╗
+║  All settings are saved in ~/.config-vritrasecz/neurax-config.json ╚╗
 ║  and can be used globally across sessions.                          ║
 ║                                                                     ║
 ║  {Colors.BRIGHT_WHITE}Examples:{Colors.BRIGHT_CYAN}                                                          ║

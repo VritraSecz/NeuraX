@@ -148,7 +148,7 @@ python neurax.py --about
 
 ## ⚙️ Configuration
 
-NeuraX stores configurations in `~/.config-neurax/config.json` for persistent settings across sessions.
+NeuraX stores configurations in `~/.config-vritrasecz/neurax-config.json` for persistent settings across sessions.
 
 ### Required Configurations
 

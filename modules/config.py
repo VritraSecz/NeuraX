@@ -18,8 +18,8 @@ class ConfigManager:
     
     def __init__(self, tool_name: str = "neurax"):
         self.tool_name = tool_name
-        self.config_dir = Path.home() / f".config-{tool_name}"
-        self.config_file = self.config_dir / "config.json"
+        self.config_dir = Path.home() / f".config-vritrasecz"
+        self.config_file = self.config_dir / f"{tool_name}-config.json"
         self.ensure_config_dir()
     
     def ensure_config_dir(self):
